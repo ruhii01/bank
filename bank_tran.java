@@ -1,4 +1,4 @@
-package bank;
+
 
 public class bank_tran {
     String accountName;
